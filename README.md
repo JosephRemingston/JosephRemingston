@@ -7,7 +7,6 @@ Backend and GenAI developer
 
 Building high-performance microservices, cloud-native architectures, and robust API infrastructure that powers next-gen AI applications.
 
-* 🌍  I'm based in India
 * 🖥️  See my portfolio at [portfolio](http://josephremingston.dev)
 * ✉️  You can contact me at [ljremi@gmail.com](mailto:ljremi@gmail.com)
 
