@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Joseph Remingston 👋</h1>
-  <p>Backend and GenAI Engineer with a strong foundation in data structures, algorithms, and software development.</p>
+  <p>Backend and GenAI</p>
   
   <a href="https://josephremingston.dev/">Portfolio</a> • 
   <a href="https://linkedin.com/in/joseph-remingston">LinkedIn</a>
