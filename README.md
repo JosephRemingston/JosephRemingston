@@ -6,7 +6,9 @@
   <a href="https://linkedin.com/in/joseph-remingston">LinkedIn</a>
 </div>
 
-https://github-readme-activity-graph.vercel.app/graph?username=JosephRemingston&theme=tokyo-night&hide_border=true
+## 📊 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JosephRemingston&theme=tokyo-night&hide_border=true)
 
 ## 🛠 Skills
 
